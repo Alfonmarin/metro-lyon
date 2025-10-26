@@ -1,2 +1,0 @@
-El archivo ejecutable con la interfaz gráfica es "app.py". El codigo del algoritmo esta en "Main.py"
-El resto de ficheros son clases y programas auxiliares.
